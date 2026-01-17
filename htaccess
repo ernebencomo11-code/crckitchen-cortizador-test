@@ -1,0 +1,19 @@
+# Habilitar el motor de reescritura de URLs de Apache
+RewriteEngine On
+
+# Establecer la base para las reglas de reescritura en el directorio raíz
+RewriteBase /
+
+# REGLA 1: Redirigir todas las peticiones a /api/... hacia api.php
+# Esto captura cualquier cosa después de "api/" y la pasa como un parámetro 'request'.
+# [L] significa que esta es la última regla si coincide.
+# [QSA] significa que se anexan los parámetros de consulta originales (como ?id=123).
+RewriteRule ^api/(.*)$ api.php?request=$1 [L,QSA]
+
+# REGLA 2: Reglas estándar para una Single Page Application (SPA)
+# Si el archivo o directorio solicitado NO existe físicamente...
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+# ...entonces, redirige la solicitud a index.html para que React Router la maneje.
+# Esto evita errores 404 al recargar la página en rutas como /editor.
+RewriteRule . /index.html [L]
