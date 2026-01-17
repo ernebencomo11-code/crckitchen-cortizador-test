@@ -1,0 +1,138 @@
+
+[
+  {
+    "codigo": "INT-MEL-16",
+    "descripcion": "GABINETE INTERIOR MELAMINA BLANCA 16MM ALTA DENSIDAD",
+    "unidad": "m²",
+    "precio": 1850.00,
+    "categoria": "MOBILIARIO Y HERRAJES",
+    "marca": "DURAPLAY",
+    "image": ""
+  },
+  {
+    "codigo": "FREN-HPL-AL",
+    "descripcion": "FRENTE DE GABINETE ACABADO HPL ALTO BRILLO COLOR SÓLIDO",
+    "unidad": "m²",
+    "precio": 3200.00,
+    "categoria": "MOBILIARIO Y HERRAJES",
+    "marca": "ALVIC",
+    "image": ""
+  },
+  {
+    "codigo": "CAJ-BLUM-AN",
+    "descripcion": "SISTEMA DE CAJÓN TANDEMBOX BLUM COLOR ANTRACITA CON FRENO",
+    "unidad": "juego",
+    "precio": 1450.00,
+    "categoria": "MOBILIARIO Y HERRAJES",
+    "marca": "BLUM",
+    "image": ""
+  },
+  {
+    "codigo": "BIS-BLUM-110",
+    "descripcion": "BISAGRA CLIP TOP 110 GRADOS CON SISTEMA BLUMOTION INTEGRADO",
+    "unidad": "pza",
+    "precio": 125.00,
+    "categoria": "MOBILIARIO Y HERRAJES",
+    "marca": "BLUM",
+    "image": ""
+  },
+  {
+    "codigo": "ALAC-EXT-60",
+    "descripcion": "DESPENSA EXTRAÍBLE PARA GABINETE DE 60CM ACABADO CROMO",
+    "unidad": "pza",
+    "precio": 12800.00,
+    "categoria": "MOBILIARIO Y HERRAJES",
+    "marca": "HAFELE",
+    "image": ""
+  },
+  {
+    "codigo": "QZ-CALA-01",
+    "descripcion": "CUARZO CALACATTA GOLD PREMIUM CON VETA GRIS Y ORO",
+    "unidad": "ml",
+    "precio": 8500.00,
+    "categoria": "ENCIMERAS",
+    "marca": "SILESTONE",
+    "image": ""
+  },
+  {
+    "codigo": "GR-NEGRO-ABS",
+    "descripcion": "GRANITO NEGRO ABSOLUTO PULIDO ESPESOR 2CM",
+    "unidad": "ml",
+    "precio": 4200.00,
+    "categoria": "ENCIMERAS",
+    "marca": "IMPORTACIÓN",
+    "image": ""
+  },
+  {
+    "codigo": "DK-AURA-12",
+    "description": "DEKTON AURA 12MM SUPERFICIE ULTRACOMPACTA",
+    "unidad": "ml",
+    "precio": 11500.00,
+    "categoria": "ENCIMERAS",
+    "marca": "COSENTINO",
+    "image": ""
+  },
+  {
+    "codigo": "MAR-CARR-ITA",
+    "descripcion": "MÁRMOL CARRARA ITALIANO PULIDO BRILLANTE",
+    "unidad": "ml",
+    "precio": 5600.00,
+    "categoria": "ENCIMERAS",
+    "marca": "IMPORTACIÓN",
+    "image": ""
+  },
+  {
+    "codigo": "QZ-GRIS-EXP",
+    "descripcion": "CUARZO GRIS EXPO ACABADO PULIDO ESTÁNDAR",
+    "unidad": "ml",
+    "precio": 3800.00,
+    "categoria": "ENCIMERAS",
+    "marca": "SILESTONE",
+    "image": ""
+  },
+  {
+    "codigo": "TAR-SUB-SS",
+    "descripcion": "TARJA DE SUBMONTAR ACERO INOXIDABLE DOBLE TINA CALIBRE 18",
+    "unidad": "pza",
+    "precio": 4500.00,
+    "categoria": "ACCESORIOS",
+    "marca": "TEKA",
+    "image": ""
+  },
+  {
+    "codigo": "MON-EXT-CH",
+    "descripcion": "MONOMANDO EXTRAÍBLE ACABADO CROMO DISEÑO MODERNO",
+    "unidad": "pza",
+    "precio": 2900.00,
+    "categoria": "ACCESORIOS",
+    "marca": "MOEN",
+    "image": ""
+  },
+  {
+    "codigo": "BOT-EXT-15",
+    "descripcion": "BOTELLERO EXTRAÍBLE LATERAL PARA GABINETE DE 15CM",
+    "unidad": "pza",
+    "precio": 1650.00,
+    "categoria": "ACCESORIOS",
+    "marca": "HAFELE",
+    "image": ""
+  },
+  {
+    "codigo": "BOTE-BAS-D",
+    "descripcion": "BOTE DE BASURA DOBLE EXTRAÍBLE PARA GABINETE DE FREGADERO",
+    "unidad": "pza",
+    "precio": 2200.00,
+    "categoria": "ACCESORIOS",
+    "marca": "REV-A-SHELF",
+    "image": ""
+  },
+  {
+    "codigo": "TAP-CUB-PL",
+    "descripcion": "TAPETE CUBERTERO PLÁSTICO GRIS PARA CAJÓN DE 60CM",
+    "unidad": "pza",
+    "precio": 450.00,
+    "categoria": "ACCESORIOS",
+    "marca": "BLUM",
+    "image": ""
+  }
+]

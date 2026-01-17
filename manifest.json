@@ -1,0 +1,36 @@
+
+{
+  "short_name": "Cotizador CR",
+  "name": "CR Kitchen & Design - Cotizador",
+  "icons": [
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfI37z_0M9f6r5X0j-eX70Vv2rG4v6G4v6G4v6G4v6&s",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfI37z_0M9f6r5X0j-eX70Vv2rG4v6G4v6G4v6G4v6&s",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfI37z_0M9f6r5X0j-eX70Vv2rG4v6G4v6G4v6G4v6&s",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfI37z_0M9f6r5X0j-eX70Vv2rG4v6G4v6G4v6G4v6&s",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#FF6B35",
+  "background_color": "#2D3748",
+  "orientation": "portrait"
+}
